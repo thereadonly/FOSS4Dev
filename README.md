@@ -13,7 +13,7 @@ A list of free and open-source software for humans. Feel free to contribute via 
 # Contents
 
    * [Source Code Repos](#source-code-repos)
-   * [IDE](#ide)
+   * [IDEs](#ides)
    * [Collaboration Tools](#collaboration-tools)
    * [Code Quality](#code-quality)
    * [CI / CD](#ci--cd)
@@ -23,7 +23,7 @@ A list of free and open-source software for humans. Feel free to contribute via 
    * [PaaS](#paas)
    * [Documentation](#documentation)
    * [Backend](#backend)
-   * [Chat and Community][chat-and-community]
+   * [Chat and Community](#chat-and-community)
    * [ADN(Application Delivery Networking)](#adn)
    * [EMT(Environment Manager Tools)](#emt)
    * [ML Ops](#ml-ops)
@@ -35,7 +35,7 @@ A list of free and open-source software for humans. Feel free to contribute via 
  * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
-## IDE 
+## IDEs 
 
  * [Atom](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
  * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
