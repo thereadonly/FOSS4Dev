@@ -1,15 +1,17 @@
 # FOSS4Dev  
-A list of free and open-source software for humans. Feel free to contribute :)
+
+A list of free and open-source software for humans. Feel free to contribute via PR :)
 
 # Brothers
+
 [free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-<!-- 
 # Contents
+
    * [Source Code Repos](#source-code-repos)
    * [IDE](#ide)
    * [Collaboration Tools](#collaboration-tools)
@@ -26,7 +28,6 @@ A list of free and open-source software for humans. Feel free to contribute :)
    * [EMT(Environment Manager Tools)](#emt)
    * [ML Ops](#ml-ops)
    * [Productivity](#productivity) 
--->
 
 ## Source Code Repos 
 
@@ -34,8 +35,8 @@ A list of free and open-source software for humans. Feel free to contribute :)
  * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
-
 ## IDE 
+
  * [Atom](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
  * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
  * [VsCodium](https://vscodium.com/) - Fully FOSS alternative to vscode
@@ -44,6 +45,7 @@ A list of free and open-source software for humans. Feel free to contribute :)
  * [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
 ## File Management
+
  * [Bat](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
  * [Clifm](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
  * [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
@@ -64,16 +66,16 @@ A list of free and open-source software for humans. Feel free to contribute :)
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
  * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
-
 ## CI / CD
 
  * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration 
  * [drone.io](https://drone.io) - Open Source CI platform
  * [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Gitlab Ci
- 
+
 ## Feature management
+
  * [Unleash](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
@@ -90,14 +92,16 @@ A list of free and open-source software for humans. Feel free to contribute :)
 * [Open Project](https://www.openproject.org) - Project management platform (has features like jira and confluence)
 
 ## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software. [UNMAINTAINED]
+
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web app written using Ruby on Rails
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web apps to help companies build better software - [UNMAINTAINED]
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
-* [Preevy](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
- * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
+
+  * [Preevy](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
+  * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+  * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ## Documentation
 
@@ -123,7 +127,7 @@ A list of free and open-source software for humans. Feel free to contribute :)
 * [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
 
 ## Environment Manager Tools
-* [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
+  * [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
 
 ## ML Ops
  * [Helicone](https://github.com/Helicone/helicone) - Open-source LLM Observability platform for developers, for logging, debugging and improving LLM apps.
