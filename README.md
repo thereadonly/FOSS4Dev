@@ -1,8 +1,6 @@
-# FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of Free and open-source software for developers
+# FOSS4Dev  
+A list of free and open-source software for humans. Feel free to contribute :)
 
- 
-Feel free to send a PR :)
 # Brothers
 [free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -10,7 +8,7 @@ Feel free to send a PR :)
 
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-
+<!-- 
 # Contents
    * [Source Code Repos](#source-code-repos)
    * [IDE](#ide)
@@ -22,10 +20,13 @@ Feel free to send a PR :)
    * [Project management](#project-management)
    * [PaaS](#paas)
    * [Documentation](#documentation)
+   * [Backend](#backend)
+   * [Chat and Community][chat-and-community]
    * [ADN(Application Delivery Networking)](#adn)
    * [EMT(Environment Manager Tools)](#emt)
-   
-
+   * [ML Ops](#ml-ops)
+   * [Productivity](#productivity) 
+-->
 
 ## Source Code Repos 
 
@@ -90,7 +91,7 @@ Feel free to send a PR :)
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software. [UNMAINTAINED]
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
@@ -108,6 +109,7 @@ Feel free to send a PR :)
 * [Okteto](https://www.okteto.com/) - Kubernetes and Docker Compose Platform
 * [Dokku](https://dokku.com/) - Heroku like environment
 * [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks, faster than unit tests, from user traffic
+* [OpenMeter](https://openmeter.io/) - Open-Source Metering for AI, Billing, and Infrastructure
 
 ## Chat and Community
 
@@ -122,3 +124,9 @@ Feel free to send a PR :)
 
 ## Environment Manager Tools
 * [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
+
+## ML Ops
+ * [Helicone](https://github.com/Helicone/helicone) - Open-source LLM Observability platform for developers, for logging, debugging and improving LLM apps.
+
+## Productivity
+* [Freeter](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
